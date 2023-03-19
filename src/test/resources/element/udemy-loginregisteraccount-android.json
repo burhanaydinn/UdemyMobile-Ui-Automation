@@ -1,0 +1,218 @@
+[
+  {
+    "keyword": "LoginForgotPasswordMobile",
+    "locatorType": "id",
+    "locatorValue": "forgot_password_txt",
+    "deviceInfo": "android"
+  },
+  {
+  "keyword": "ForgotPasswordPageSendButtonMobile",
+  "locatorType": "id",
+  "locatorValue": "send_btn",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "LoginRegisterButtonMobile",
+  "locatorType": "id",
+  "locatorValue": "register_button",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpCustomerNameMobile",
+  "locatorType": "id",
+  "locatorValue": "et_firstName",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpCustomerLastnameMobile",
+  "locatorType": "id",
+  "locatorValue": "et_surName",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpCustomerPhoneMobile",
+  "locatorType": "id",
+  "locatorValue": "et_phoneNumber",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpCustomerBirthDateMobile",
+  "locatorType": "id",
+  "locatorValue": "et_date_of_birth",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpCustomerGenderMaleMobile",
+  "locatorType": "id",
+  "locatorValue": "man",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpNewPasswordMobile",
+  "locatorType": "id",
+  "locatorValue": "et_password",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpConfirmPasswordMobile",
+  "locatorType": "id",
+  "locatorValue": "et_password_again",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpProfileButtonMobile",
+  "locatorType": "id",
+  "locatorValue": "register_button",
+  "deviceInfo": "android"
+  },
+  {
+  "keyword": "SingUpMembershipAgreementMobile",
+  "locatorType": "id",
+  "locatorValue": "membership_agreement_checkbox",
+  "deviceInfo": "android"
+  },
+  {
+    "keyword": "SingUpCustomerEmailMobile",
+    "locatorType": "id",
+    "locatorValue": "et_email",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  }
+]

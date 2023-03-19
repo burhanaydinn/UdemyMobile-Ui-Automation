@@ -1,0 +1,315 @@
+[
+  {
+    "keyword": "NavbarUserMobile",
+    "locatorType": "id",
+    "locatorValue": "nav_graph_other",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "NavbarTrademarksMobile",
+    "locatorType": "id",
+    "locatorValue": "nav_graph_trademarks",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "NavbarCampaignMobile",
+    "locatorType": "id",
+    "locatorValue": "nav_graph_campaign",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "NavbarCategoriesMobile",
+    "locatorType": "id",
+    "locatorValue": "nav_graph_categories",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "NavbarHomeMobile",
+    "locatorType": "id",
+    "locatorValue": "nav_graph_home",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "RegisterOrLoginProfileMobile",
+    "locatorType": "id",
+    "locatorValue": "profil_img",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SingInButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.Button'])[2]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "ProfileTextMobile",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/almost_there",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "LogoutButtonMobile",
+    "locatorType": "id",
+    "locatorValue": "sign_out_btn",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SignInButton",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/signin_button",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "LoginWithEmail",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/login_with_email",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "LoginEmailMobile",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/email_edit",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "LoginEmailNextButtonMobile",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/nextBtn",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "LoginPasswordMobile",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/password",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "LoginButtonMobile",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/signin_button",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  }
+]
+

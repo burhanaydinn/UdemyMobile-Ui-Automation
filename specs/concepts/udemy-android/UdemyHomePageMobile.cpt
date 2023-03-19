@@ -1,0 +1,16 @@
+Burhan1925.
+
+/-----------------------------------------------------------------------------------------------------------------------
+
+# Yönlendirilen Giriş Yap sayfasından giriş yapılır.
+* "LoginEmailMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginEmailMobile" 'li elemente "javaautomationtest@gmail.com" degeri girilir.
+* "LoginPasswordMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginPasswordMobile" 'li elemente "1A2s3d.." degeri girilir.
+* "LoginButtonMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginButtonMobile" li elemente tıklanır.
+
+# Anasayfaya yönlendirildiği görülmelidir.
+* "TopMobile" li elementinin görünürlüğü kontrol edilir.
+
+/-----------------------------------------------------------------------------------------------------------------------

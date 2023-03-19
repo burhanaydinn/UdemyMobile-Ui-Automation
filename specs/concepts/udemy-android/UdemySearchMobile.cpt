@@ -1,0 +1,44 @@
+Burhan1925.
+
+/-----------------------------------------------------------------------------------------------------------------------
+
+# Popüler kategoriler altından kategori üzerine tıklanır.
+* "PopularCategoriesHeaderMobile" li elementinin görünürlüğü kontrol edilir.
+* "SubCategoriesRootMobile" li elementinin görünürlüğü kontrol edilir.
+* "SubCategoriesRootMobile" li elemente tıklanır.
+
+# Kategori ile ilgili ürünlerin listelendiği sayfanın açıldığı görülmelidir.
+* "PageToolbarTitleMobile" li elementinin görünürlüğü kontrol edilir.
+* "ProductListPageAnd" li elementinin görünürlüğü kontrol edilir.
+
+# Popüler markalar altından kategori üzerine tıklanır.
+* "PopularBrandsHeaderMobile" li elementinin görünürlüğü kontrol edilir.
+* "SubBrandsRootMobile" li elementinin görünürlüğü kontrol edilir.
+* "SubBrandsRootMobile" li elemente tıklanır.
+
+# Markalar ile ilgili ürünlerin listelendiği sayfanın açıldığı görülmelidir.
+* "PageToolbarTitleMobile" li elementinin görünürlüğü kontrol edilir.
+* "ProductListPageAnd" li elementinin görünürlüğü kontrol edilir.
+
+# Search alanına Kategori ismi yazılır.
+* "SearchInputPlateMobile" li elementinin görünürlüğü kontrol edilir.
+* "SearchInputPlateMobile" 'li elemente "Erkek Parfüm" degeri girilir.
+
+# İstenilen kategoriye tıklanır.
+* "SearchInputTrademarkRootMobile" li elementinin görünürlüğü kontrol edilir.
+* "SearchInputTrademarkRootMobile" li elemente tıklanır.
+
+# Search alanına Marka ismi yazılır.
+* "SearchInputPlateMobile" li elementinin görünürlüğü kontrol edilir.
+* "SearchInputPlateMobile" 'li elemente "Dior" degeri girilir.
+
+# İstenilen markaya tıklanır.
+* "SearchInputTrademarkRootMobile" li elementinin görünürlüğü kontrol edilir.
+* "SearchInputTrademarkRootMobile" li elemente tıklanır.
+
+# Search alanına Ürün ismi yazılır.
+* "SearchInputPlateMobile" li elementinin görünürlüğü kontrol edilir.
+//* "SearchInputPlateMobile" 'li elemente "Pastel Oje 106" degeri girilir.
+* "SearchInputPlateMobile" 'li elemente "Pastel Oje 106" degeri girilir ve enter'a basılır.
+
+/-----------------------------------------------------------------------------------------------------------------------

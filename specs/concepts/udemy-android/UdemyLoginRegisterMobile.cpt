@@ -1,0 +1,84 @@
+Burhan1925.
+
+/-----------------------------------------------------------------------------------------------------------------------
+
+# E-posta textbox'ına E-posta girilir.
+* "LoginEmailMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginEmailMobile" 'li elemente "javaautomationtest@gmail.com" degeri girilir.
+
+# Parola textbox'ına Parola girilir.
+* "LoginPasswordMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginPasswordMobile" 'li elemente "1A2s3d.." degeri girilir.
+
+# Giriş Yap butonuna tıklanır.
+* "LoginButtonMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginButtonMobile" li elemente tıklanır.
+
+# Profil ikonu geldiği görülmelidir.
+* "ProfilTextMobile" li elementinin görünürlüğü kontrol edilir.
+
+# Şifremi Unuttum ikonuna tıklanır.
+* "LoginForgotPasswordMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginForgotPasswordMobile" li elemente tıklanır.
+
+# Şifremi Yenileme sayfasının geldiği görülmelidir.
+* "ForgotPasswordPageMessageMobile" li elementinin görünürlüğü kontrol edilir.
+* "PageToolbarTitleMobile" li elementinin görünürlüğü kontrol edilir.
+
+# Şifremi unuttum Gönder butonuna tıklanır.
+* "ForgotPasswordPageSendButtonMobile" li elementinin görünürlüğü kontrol edilir.
+* "ForgotPasswordPageSendButtonMobile" li elemente tıklanır.
+
+# İşlem Başarılı Şifre değiştirme linki e-posta adresinize gönderildi uyarısı görülmelidir.
+* "AlertTransactionSuccessfulPopupMobile" li elementinin görünürlüğü kontrol edilir.
+
+# Popup Tamam butonuna tıklanır.
+* "AlertTransactionSuccessfulPopupOkayButton" li elementinin görünürlüğü kontrol edilir.
+* "AlertTransactionSuccessfulPopupOkayButton" li elemente tıklanır.
+
+# Hata Lütfen girilen e-posta alanını kontrol ediniz uyarısı görülmelidir.
+* "AlertEmailControlPopupMobile" li elementinin görünürlüğü kontrol edilir.
+
+//* "AlertEmailControlPopupOkayButtonMobile" li elementinin görünürlüğü kontrol edilir.
+//* "AlertEmailControlPopupOkayButtonMobile" li elemente tıklanır.
+
+# Üye ol ikonuna tıklanır.
+* "LoginRegisterButtonMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginRegisterButtonMobile" li elemente tıklanır.
+
+# Yeni Üyelik sayfasının geldiği görülemidir.
+* "PageToolbarTitleMobile" li elementinin görünürlüğü kontrol edilir.
+
+# Üye Ol Ad alanına Ad girilir.
+* "SingUpCustomerNameMobile" li elementinin görünürlüğü kontrol edilir.
+* "SingUpCustomerNameMobile" 'li elemente "Burhan" degeri girilir.
+
+# Üye Ol Soyad alanına Soyad girilir.
+* "SingUpCustomerLastnameMobile" li elementinin görünürlüğü kontrol edilir.
+* "SingUpCustomerLastnameMobile" 'li elemente "Aydin" degeri girilir.
+
+# Üye Ol E-posta textbox'ına E-posta girilir.
+* "SingUpCustomerEmailMobile" li elementinin görünürlüğü kontrol edilir.
+* "SingUpCustomerEmailMobile" 'li elemente "javaautomation@gmail.com" degeri girilir.
+
+# Üye Ol Cep Telefonu alanına cep telefonu girilir.
+* "SingUpCustomerPhoneMobile" li elementinin görünürlüğü kontrol edilir.
+* "SingUpCustomerPhoneMobile" 'li elemente "5423557470" degeri girilir.
+
+# Üye Ol Doğum Tarihi alanına doğum tarihi girilir.
+* "SingUpCustomerBirthDateMobile" li elementinin görünürlüğü kontrol edilir.
+* "SingUpCustomerBirthDateMobile" 'li elemente "08041994" degeri girilir.
+
+# Üye Ol Cinsiyet Erkek/Kadın checkbox'ına tıklanır.
+* "SingUpCustomerGenderMaleMobile" li elementinin görünürlüğü kontrol edilir.
+* "SingUpCustomerGenderMaleMobile" li elemente tıklanır.
+
+# Üye Ol Parola alanına yeni parola girilir.
+* "SingUpNewPasswordMobile" li elementinin görünürlüğü kontrol edilir.
+* "SingUpNewPasswordMobile" 'li elemente "1A2s3d4f5g6h.." degeri girilir.
+
+# Üye Ol Parola Tekrarla alanına Parola tekrardan girilir.
+* "SingUpConfirmPasswordMobile" li elementinin görünürlüğü kontrol edilir.
+* "SingUpConfirmPasswordMobile" 'li elemente "1A2s3d4f5g6h.." degeri girilir.
+
+/-----------------------------------------------------------------------------------------------------------------------

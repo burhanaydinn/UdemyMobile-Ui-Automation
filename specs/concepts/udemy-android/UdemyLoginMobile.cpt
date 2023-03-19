@@ -1,0 +1,35 @@
+Burhan1925.
+
+/-----------------------------------------------------------------------------------------------------------------------
+# Login bilgileri girilir.
+* "NavbarUserMobile" li elementinin görünürlüğü kontrol edilir.
+* "NavbarUserMobile" li elemente tıklanır.
+* "RegisterOrLoginProfileMobile" li elementinin görünürlüğü kontrol edilir.
+* "RegisterOrLoginProfileMobile" li elemente tıklanır.
+* "LoginEmailMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginEmailMobile" 'li elemente "javaautomationtest@gmail.com" degeri girilir.
+* "LoginPasswordMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginPasswordMobile" 'li elemente "1A2s3d.." degeri girilir.
+* "LoginButtonMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginButtonMobile" li elemente tıklanır.
+* "ProfilTextMobile" li elementinin görünürlüğü kontrol edilir.
+* "10" saniye kadar beklenir.
+
+# Login bilgileri için <mail> ve <password> girilir.
+* "SignInButton" li elementinin görünürlüğü kontrol edilir.
+* "SignInButton" li elemente tıklanır.
+* "LoginWithEmail" li elementinin görünürlüğü kontrol edilir.
+* "LoginWithEmail" li elemente tıklanır.
+* "LoginEmailMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginEmailMobile" 'li elemente <mail> degeri girilir.
+* "LoginEmailNextButtonMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginEmailNextButtonMobile" li elemente tıklanır.
+* "LoginPasswordMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginPasswordMobile" 'li elemente <password> degeri girilir.
+* "LoginButtonMobile" li elementinin görünürlüğü kontrol edilir.
+* "LoginButtonMobile" li elemente tıklanır.
+* "ProfileTextMobile" li elementinin görünürlüğü kontrol edilir.
+
+// "javaautomationtest@gmail.com" // "1A2s3d.."
+
+/-----------------------------------------------------------------------------------------------------------------------

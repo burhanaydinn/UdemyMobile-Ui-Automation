@@ -1,0 +1,16 @@
+Burhan1925.
+
+/-----------------------------------------------------------------------------------------------------------------------
+
+# Search'e tıklanır.
+* "SearchButtonTopAnd" li elementinin görünürlüğü kontrol edilir.
+* "SearchButtonTopAnd" li elemente tıklanır.
+
+# Search sayfasının açıldığı görülmelidir.
+* "SearchButtonFrameTopAnd" li elementinin görünürlüğü kontrol edilir.
+
+# Anasayfa'a tıklanır.
+* "NavbarHomeMobile" li elementinin görünürlüğü kontrol edilir.
+* "NavbarHomeMobile" li elemente tıklanır.
+
+/-----------------------------------------------------------------------------------------------------------------------
