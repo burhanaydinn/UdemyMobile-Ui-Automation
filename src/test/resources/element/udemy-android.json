@@ -1,32 +1,32 @@
 [
   {
-    "keyword": "NavbarUserMobile",
-    "locatorType": "id",
-    "locatorValue": "nav_graph_other",
+    "keyword": "NavbarUser",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Hesap']",
     "deviceInfo": "android"
   },
   {
-    "keyword": "NavbarTrademarksMobile",
-    "locatorType": "id",
-    "locatorValue": "nav_graph_trademarks",
+    "keyword": "NavbarHighlights",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Öne Çıkanlar']",
     "deviceInfo": "android"
   },
   {
-    "keyword": "NavbarCampaignMobile",
-    "locatorType": "id",
-    "locatorValue": "nav_graph_campaign",
+    "keyword": "NavbarWishlist",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Wishlist']",
     "deviceInfo": "android"
   },
   {
-    "keyword": "NavbarCategoriesMobile",
-    "locatorType": "id",
-    "locatorValue": "nav_graph_categories",
+    "keyword": "NavbarLearningContent",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Öğrenim İçeriğim']",
     "deviceInfo": "android"
   },
   {
-    "keyword": "NavbarHomeMobile",
-    "locatorType": "id",
-    "locatorValue": "nav_graph_home",
+    "keyword": "NavbarSearch",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Ara']",
     "deviceInfo": "android"
   },
   {
@@ -44,7 +44,7 @@
   {
     "keyword": "ProfileTextMobile",
     "locatorType": "id",
-    "locatorValue": "com.udemy.android:id/almost_there",
+    "locatorValue": "com.udemy.android:id/welcome_user_fullname",
     "deviceInfo": "android"
   },
   {
@@ -90,87 +90,87 @@
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "SearchPageControl",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/search_bar_text",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "LearningContentPageControl",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Öğrenim Hatırlatıcıları']",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "WishlistPageControl",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/toolbar",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "HighlightsPageControl",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/profile_image",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "UserPageControl",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/avatar_bubble",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "LearningContentPageNotNowButton",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Şimdi değil']",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "SearchBarText",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/search_bar_text",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "SearchListOne",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/body",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "PageRecyclerViewControl",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/recycler_view",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "ListCourseTitle",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/course_title",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "PageCourseDetailControl",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/video_preview_img",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "CourseVideoPlayButton",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/play",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "CourseVideoPageClick",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/exo_subtitles",
     "deviceInfo": "android"
   },
   {
-    "keyword": "xxxx",
-    "locatorType": "xxxx",
-    "locatorValue": "xxxx",
+    "keyword": "CourseVideoPauseButton",
+    "locatorType": "id",
+    "locatorValue": "com.udemy.android:id/play_pause_button",
     "deviceInfo": "android"
   },
   {

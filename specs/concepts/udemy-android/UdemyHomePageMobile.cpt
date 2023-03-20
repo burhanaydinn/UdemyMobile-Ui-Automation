@@ -13,4 +13,68 @@ Burhan1925.
 # Anasayfaya yönlendirildiği görülmelidir.
 * "TopMobile" li elementinin görünürlüğü kontrol edilir.
 
+# Navbar geçişleri ve sayfa kontrolleri yapılır.
+* "NavbarSearch" li elementinin görünürlüğü kontrol edilir.
+* "NavbarSearch" li elemente tıklanır.
+* "SearchPageControl" li elementinin görünürlüğü kontrol edilir.
+* "2" saniye kadar beklenir.
+* "NavbarLearningContent" li elementinin görünürlüğü kontrol edilir.
+* "NavbarLearningContent" li elemente tıklanır.
+* "LearningContentPageControl" li elementinin görünürlüğü kontrol edilir.
+* "LearningContentPageNotNowButton" li elementinin görünürlüğü kontrol edilir.
+* "LearningContentPageNotNowButton" li elemente tıklanır.
+* "2" saniye kadar beklenir.
+* "NavbarWishlist" li elementinin görünürlüğü kontrol edilir.
+* "NavbarWishlist" li elemente tıklanır.
+* "WishlistPageControl" li elementinin görünürlüğü kontrol edilir.
+* "2" saniye kadar beklenir.
+* "NavbarUser" li elementinin görünürlüğü kontrol edilir.
+* "NavbarUser" li elemente tıklanır.
+* "UserPageControl" li elementinin görünürlüğü kontrol edilir.
+* "2" saniye kadar beklenir.
+* "NavbarHighlights" li elementinin görünürlüğü kontrol edilir.
+* "NavbarHighlights" li elemente tıklanır.
+* "HighlightsPageControl" li elementinin görünürlüğü kontrol edilir.
+
+# Navbar Search sayfasına gidilir.
+* "NavbarSearch" li elementinin görünürlüğü kontrol edilir.
+* "NavbarSearch" li elemente tıklanır.
+
+# Search sayfasının açıldığı görülür.
+* "SearchPageControl" li elementinin görünürlüğü kontrol edilir.
+
+# Search alanında kurs <course> araması yapılır.
+* "SearchBarText" li elementinin görünürlüğü kontrol edilir.
+* "SearchBarText" li elemente tıklanır.
+* "SearchBarText" 'li elemente <course> degeri girilir.
+* "SearchListOne" li elementinin görünürlüğü kontrol edilir.
+* "SearchListOne" li elemente tıklanır.
+
+# Tercih edilen filtre aramasının yapıldığı görülür.
+* "PageRecyclerViewControl" li elementinin görünürlüğü kontrol edilir.
+
+# Rastgele sayfadaki kurslardan birine tıklanır.
+* "ListCourseTitle" 'li elemente rastgele tıklanır.
+
+# Kurs içeriğinin yer aldığı sayfanın açıldığı görülür.
+* "PageCourseDetailControl" li elementinin görünürlüğü kontrol edilir.
+
+# Kurs içeriği ile ilgili video oynatılır.
+* "CourseVideoPlayButton" li elementinin görünürlüğü kontrol edilir.
+//* "CourseVideoPlayButton" li elemente tıklanır.
+* "CourseVideoPlayButton" li elemente tıklanır.
+* "CourseVideoPlayButton" li elemente tıklanır.
+
+# Kurs içeriğine ait videonun başladığı görülür.
+* "CourseVideoPageClick" li elementinin görünürlüğü kontrol edilir.
+
+# Kurs içeriği ile ilgili video durdurulur.
+* "CourseVideoPageClick" li elementinin görünürlüğü kontrol edilir.
+* "CourseVideoPageClick" li elemente tıklanır.
+* "CourseVideoPauseButton" li elementinin görünürlüğü kontrol edilir.
+* "CourseVideoPauseButton" li elemente tıklanır.
+
+# Kurs içeriğine ait videonun durduğu görülür.
+* "CourseVideoPageClick" li elementinin görünürlüğü kontrol edilir.
+
 /-----------------------------------------------------------------------------------------------------------------------
