@@ -1,7 +1,7 @@
 Burhan1925
 
 Udemy App Mobile Scenario
-===========================
+==========================
 * Login bilgileri için "javaautomationtest@gmail.com" ve "1A2s3d.." girilir.
 
 TC:1 - Udemy Login - Mobile Scenario

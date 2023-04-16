@@ -47,8 +47,9 @@ Burhan1925.
 * "SearchBarText" li elementinin görünürlüğü kontrol edilir.
 * "SearchBarText" li elemente tıklanır.
 * "SearchBarText" 'li elemente <course> degeri girilir.
-* "SearchListOne" li elementinin görünürlüğü kontrol edilir.
-* "SearchListOne" li elemente tıklanır.
+* Enter tıkla
+//* "SearchListOne" li elementinin görünürlüğü kontrol edilir.
+//* "SearchListOne" li elemente tıklanır.
 
 # Tercih edilen filtre aramasının yapıldığı görülür.
 * "PageRecyclerViewControl" li elementinin görünürlüğü kontrol edilir.
