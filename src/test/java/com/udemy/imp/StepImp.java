@@ -609,17 +609,7 @@ public class StepImp  {
         methods.randomElementClicker(methods.getElements(keyword));
     }
 
-    @Step("<key> li elementin  merkezine  press ile çift tıkla ")
-    public void pressElementWithKey(String key) {
-
-        Point point = methods.findElementMobile(key).getCenter();
-        TouchAction a2 = new TouchAction(appiumDriver);
-        a2.press(PointOption.point(point.x, point.y)).waitAction(WaitOptions.waitOptions(Duration.ofMillis(300)))
-                .press(PointOption.point(point.x, point.y)).release().perform();
-
-    }
-
-    @Step("<key> li elementin  merkezine double tıkla ")
+    @Step("<key> li elementin merkezine double tıkla ")
     public void pressElementWithKey2(String key) {
         Actions actions = new Actions(appiumDriver);
         actions.moveToElement(methods.findElementMobile(key));
@@ -627,4 +617,12 @@ public class StepImp  {
         actions.perform();
         appiumDriver.getKeyboard();
     }
+
+    @Step("Enter tıkla")
+    public void keyboardClickEnter() {
+        Actions actions=new Actions(appiumDriver);
+        actions.sendKeys(Keys.ENTER).build().perform();
+        logger.info("ENTER tuşuna basıldı.");
+    }
+
 }
