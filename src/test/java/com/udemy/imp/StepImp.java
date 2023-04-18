@@ -7,13 +7,17 @@ import io.appium.java_client.TouchAction;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.touch.WaitOptions;
 import io.appium.java_client.touch.offset.PointOption;
+import org.apache.commons.lang.StringUtils;
 import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 import static com.udemy.driver.BaseTest.logger;
@@ -25,6 +29,9 @@ import static java.time.Duration.ofMillis;
 public class StepImp  {
     protected Methods methods;
     public By by;
+
+    private  List<Integer> integerList=new ArrayList<>();
+
 
     public StepImp() {
         methods = new Methods();
@@ -623,6 +630,28 @@ public class StepImp  {
         Actions actions=new Actions(appiumDriver);
         actions.sendKeys(Keys.ENTER).build().perform();
         logger.info("ENTER tuşuna basıldı.");
+    }
+
+    @Step("<key> elementinden TL harflerini sil ve Integer dizine kaydet")
+    public void revomeTLFromPriceAndSave(String key){
+        String value = methods.findElementMobile(key).getText();
+        value = value.replaceAll(" TL", "");
+        value = value.replaceAll("\\,", "");
+        int sayi = (Integer.parseInt(value));
+        integerList.add(sayi);
+        logger.info(sayi +" degerini dizine atıldı");
+    }
+
+    @Step({"<key> li elementi bul ve 5 haneli guncel onay kodunu gir"})
+    public void sendKeysByDateWithFiveDigit(String key) {
+        SimpleDateFormat formatter= new SimpleDateFormat("MMddyy");
+        Date date = new Date(System.currentTimeMillis());
+        String secureCode = formatter.format(date);
+        secureCode = StringUtils.chop(secureCode);
+        logger.info(secureCode + " güvenlik kodu girilmektedir");
+        MobileElement webElement = methods.findElementMobile(key);
+        webElement.clear();
+        webElement.setValue(secureCode);
     }
 
 }
