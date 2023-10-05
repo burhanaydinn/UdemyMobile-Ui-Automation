@@ -7,5 +7,5 @@ TC:1 - Search - Mobile Scenario
 -------------------------------
 Tags:android, @UdemyMobile-BarkodIleArama
 * Search'e tıklanır.
-* Search sayfasının açıldığı görülmelidir.
+
 * "8" saniye kadar beklenir.
